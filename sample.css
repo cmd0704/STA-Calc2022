@@ -1,0 +1,45 @@
+.dentaku{
+	width: 340px;
+	background: rgb(11, 11, 11);
+	padding: 10px;
+	text-align: center;
+}
+
+.dentaku input {
+    font-size: 12pt;
+}
+
+#siki,#kotae {
+	font-size: 20pt;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	background: #fff;
+	color: #333;
+	padding: 10px;
+	margin: 5px;
+}
+
+#siki {
+    width: 250px;
+}
+
+#kotae {
+    width: 250px;
+}
+
+#PANEL {
+    border-collapse: separate;
+	border-spacing: 4px;
+	margin: 25px;
+}
+
+#PANEL td {
+    width: 65px;
+	height: 65px;
+	background: #f49518;
+	border-radius: 90px;
+	text-align: center;
+	font-size: 25pt;
+	color: #000;
+	user-select:none;
+}
